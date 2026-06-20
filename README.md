@@ -8,7 +8,8 @@ The project was developed as a cybersecurity-focused research and implementation
 
 ---
 
-## Project Overview
+
+## 📌 Project Overview
 
 Traditional cloud storage systems depend on centralized infrastructures that introduce risks such as:
 
@@ -37,7 +38,7 @@ SecureShare addresses these challenges through a decentralized architecture that
 * [License](#license)
 ---
 
-## Key Features
+## ✨ Key Features
 
 ### Secure Authentication & Authorization
 
@@ -92,7 +93,7 @@ SecureShare addresses these challenges through a decentralized architecture that
 
 ---
 
-## Security Mechanisms
+## 🔐 Security Mechanisms
 
 ### Cryptographic Protection
 
@@ -121,7 +122,7 @@ SecureShare addresses these challenges through a decentralized architecture that
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### Frontend
 
@@ -156,7 +157,7 @@ SecureShare addresses these challenges through a decentralized architecture that
 
 ---
 
-## Research Contributions
+## 📚 Research Contributions
 
 The project explores the integration of:
 
@@ -299,15 +300,14 @@ Below are selected screenshots demonstrating the complete workflow and security 
 
 ---
 
-## Demo Video
-
+## ▶️ Demo Video
 Watch the working demonstration of SecureShare:
 
 [▶ Watch Demo Video](https://youtu.be/XsRCdOI1mLQ)
 
 ---
 
-## Project Outcomes
+## 🎯 Project Outcomes
 
 * Developed a secure decentralized file-sharing framework.
 * Eliminated dependency on centralized storage.
@@ -318,7 +318,7 @@ Watch the working demonstration of SecureShare:
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 * Shamir Secret Sharing for distributed key management
 * Advanced Zero-Knowledge Proof authentication
@@ -330,13 +330,13 @@ Watch the working demonstration of SecureShare:
 
 ---
 
-## Academic Publication
+## 📄 Academic Publication
 
 This project contributed to research in decentralized secure file sharing and privacy-preserving access control mechanisms.
 
 ---
 
-## Project Team
+## 👥 Project Team
 
 Developed by:
 
@@ -348,7 +348,7 @@ Keshav Memorial Engineering College
 
 ---
 
-## License
+## 📜 License
 
 This repository is intended for academic and project showcase purposes only.
 

@@ -1,4 +1,12 @@
 # SecureShare
+![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20Web-blue)
+![Frontend](https://img.shields.io/badge/Frontend-Flutter-blue)
+![Backend](https://img.shields.io/badge/Backend-FastAPI-green)
+![Storage](https://img.shields.io/badge/Storage-IPFS-orange)
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-purple)
+![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![Security](https://img.shields.io/badge/Security-JWT%20%7C%20RBAC-red)
+![ML](https://img.shields.io/badge/ML-Isolation%20Forest-yellow)
 
 ## Intelligent Decentralized Secure File Sharing System with Privacy-Preserving Access Control
 
